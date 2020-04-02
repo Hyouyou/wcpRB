@@ -1,0 +1,2 @@
+name = "ゆうすけ"
+puts name
